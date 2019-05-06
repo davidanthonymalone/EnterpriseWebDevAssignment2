@@ -6,7 +6,7 @@ export const workouts = [
   },
   {
     'name': 'Workout 2',
-    'type': '23 Main St',
+    'type': '23 Man St',
     'length': '934-4329',
   },
   {
