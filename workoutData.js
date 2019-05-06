@@ -1,25 +1,23 @@
 import workoutModel from './api/workouts/workoutModel';
 
 const workouts = [{
-    'location': 'Workout 1',
-    'type': '123 Test St',
-    'length': '132-3212',
-  },
-  {
-    'name': 'Workout 2',
-    'type': '23 Main St',
-    'length': '934-4329',
-  },
-  {
-    'name': 'Workout 3',
-    'type': '4 Lower St',
-    'length': '432-5832',
-  },
-  {
-    'name': 'Workout 4',
-    'type': '49 Upper Street',
-    'length': '934-4290',
-  },
+  "id": 1,
+  "location": "Waterford",
+  "type": "walking",
+  "length": "1 miles"
+},
+ {
+  "id": 2,
+  "location": "Wexford",
+  "type": "Running",
+  "length": "2 miles"
+},
+ {
+ "id": 3,
+  "location": "Carlow",
+  "type": "Jogging",
+  "length": "5 miles"
+},
 ];
 
 export default async function loadWorkouts() {
