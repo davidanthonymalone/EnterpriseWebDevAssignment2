@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 const WorkoutSchema = new Schema({
   location: String,
   type: String,
-  legth: String,
+  length: String,
 });
 
 export default mongoose.model('Workout', WorkoutSchema);

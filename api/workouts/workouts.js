@@ -1,5 +1,6 @@
 export const workouts = [
   {
+  
     'location': 'Workout 1',
     'type': '123 Test St',
     'length': '132-3212',
