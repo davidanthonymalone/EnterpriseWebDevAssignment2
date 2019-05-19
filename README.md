@@ -12,7 +12,7 @@ Git clone EnterpriseWebDevAssignment2 and then install WorkoutTrackerWithReactJS
 
 ![alt text](screenshots/folder.png " This is a screenshot of what the folder structure should look like when both the apps are cloned")
 
-This application has node intergration with Read/Write and delete functionality.  
+This application has node intergration with Read/Write and delete functionality. The applicaiton also reads, writes and deletes from MongoDB.  
 
 ## Data Model Design.
 I have one data model and its a fairly simplistic workout data model.
