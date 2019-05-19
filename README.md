@@ -10,7 +10,7 @@ I have my React application hooked up to Mongo using basic Mongoose modelling.  
 
 Git clone EnterpriseWebDevAssignment2 and then install WorkoutTrackerWithReactJS inside the base folder.
 
-![alt text](screenshots/login.png " This is a screenshot of what the folder structure should look like when both the apps are cloned")
+![alt text](screenshots/folder.png " This is a screenshot of what the folder structure should look like when both the apps are cloned")
 
 This application has node intergration with Read/Write and delete functionality.  
 
