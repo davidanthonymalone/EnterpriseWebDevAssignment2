@@ -30,6 +30,8 @@ This application is built with React and it allows users to signup and login usi
 
 The application is styled partly using bootstrap and partly with custom css.
 
+I have my React application hooked up to Mongo using basic Mongoose modelling.  I have basic read/write and delete functionality working with a Mongo Database. 
+
 ## Installation
 To get this application working properly with WorkoutReact application you need to clone this applicationa nd then clone WorkoutReact application inside the base folder of this application.  Then you need to do an npm start in the base folder of EnterpriseWebDevAssignment2 (starts the server) and then an npm start inside WorkoutTrackerWithReactJS  (starts the application).  Once both applications are started then everything should run properly.
 
